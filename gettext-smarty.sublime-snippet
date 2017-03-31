@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{_("${0:$TM_SELECTED_TEXT}")}
+]]></content>
+	<tabTrigger>_</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>gettext wrapper for Smarty: {_("text for i18n")}</description>
+</snippet>

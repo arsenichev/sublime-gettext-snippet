@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{_("${0:$TM_SELECTED_TEXT}")|sprintf:"${1:string}"}
+]]></content>
+	<tabTrigger>_</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>gettext+sprintf wrapper for Smarty: {_("text for %s")|sprintf:"i18n"}</description>
+</snippet>
